@@ -27,8 +27,8 @@ dependencies = [
 filechunker = "pyfilechunker.__main__:app" # Updated package path
 
 [project.urls]
-Homepage = "https://github.com/fxyzbtc/filechunker" # Replace with your actual URL
-Repository = "https://github.com/fxyzbtc/filechunker" # Replace with your actual URL
+Homepage = "https://github.com/fxyzbtc/pyfilechunker" # Replace with your actual URL
+Repository = "https://github.com/fxyzbtc/pyfilechunker" # Replace with your actual URL
 
 [dependency-groups]
 dev = [
